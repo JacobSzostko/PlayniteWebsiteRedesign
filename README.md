@@ -1,4 +1,4 @@
-# ## 🎨 Playnite website redesign
+## 🎨 Playnite website redesign
 In this repository you can find my take on Playnite website redesign
 
 ## 🔗 Links:
